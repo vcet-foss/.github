@@ -1,4 +1,4 @@
-# VCET FOSS 🚀
+![VCET FOSS LOGO](https://raw.githubusercontent.com/vcet-foss/branding/refs/heads/main/asset/svg/vcet-foss-light.svg)
 
 **VCET FOSS** is a student-driven Free and Open Source Software community at **Vidyavardhini's College of Engineering & Technology**.
 
