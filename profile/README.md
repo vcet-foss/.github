@@ -1,4 +1,15 @@
-![VCET FOSS LOGO](https://raw.githubusercontent.com/vcet-foss/branding/refs/heads/main/asset/svg/vcet-foss-light.svg)
+<p align="left">
+  <!--VCET FOSS Logo-->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/vcet-foss/branding/refs/heads/main/asset/svg/vcet-foss-light.svg">
+    <img 
+      src="https://raw.githubusercontent.com/vcet-foss/branding/refs/heads/main/asset/svg/vcet-foss-dark.svg" 
+      alt="VCET FOSS LOGO" 
+      width="200">
+  </picture><br>
+</p>
 
 **VCET FOSS** is a student-driven Free and Open Source Software community at **Vidyavardhini's College of Engineering & Technology**.
 
@@ -42,7 +53,7 @@ This is a space for **builders**.
 
 All community projects live in our central registry:
 
-👉 **[`foss-dir`](https://github.com/vcet-foss/awesome-foss)**
+👉 **[`awesome-foss`](https://github.com/vcet-foss/awesome-foss)**
 
 Each project:
 - Has a clear roadmap
@@ -75,7 +86,10 @@ There are many ways to get involved:
 - Review pull requests
 - Help maintain existing projects
 
-Start here:
+#### *To Add Project Start here:*
+👉 **[`ADD_PROJECT.md`](https://github.com/vcet-foss/awesome-foss/blob/main/ADD_PROJECT.md)**
+
+#### *For Contribution Start here:*
 👉 **[`CONTRIBUTING.md`](https://github.com/vcet-foss/awesome-foss/blob/main/CONTRIBUTING.md)**
 
 Your first PR doesn’t need to be perfect.
